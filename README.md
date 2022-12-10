@@ -2,6 +2,19 @@
 
 Android application from where you can download YT videos or mp3 file
 
+<p>If you notice any issue which you want to be resolved or discuss about it, please submit it <a href="https://github.com/iatharva/BookCave/issues/new">here</a></p>
+Project made by - Atharva Ikhar.
+
+For queries,
+
+atharva464@gmail.com
+
+
+Copyright (c) 2020-2022, iAtharva
+
+All rights reserved.
+Refer to the LICENSE.md for the detailed information
+
 <details>
   <summary>Disclaimer for the app and site</summary>
   
