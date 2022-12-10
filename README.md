@@ -1,6 +1,6 @@
-# YT-Downloader (In progress)
+![](https://socialify.git.ci/iatharva/YT-Downloader/image?description=1&descriptionEditable=Android%20application%20from%20where%20you%20can%20download%20YT%20videos%2Fmp3%20files.%0ACopyright%20(c)%202020-2022%2C%20iAtharva%20All%20rights%20reserved.&language=1&owner=1&theme=Dark)
 
-Android application from where you can download YT videos or mp3 file
+<p align="center">(it's still WORK IN PROGRESS.)</p>
 
 <p>If you notice any issue which you want to be resolved or discuss about it, please submit it <a href="https://github.com/iatharva/BookCave/issues/new">here</a></p>
 Project made by - Atharva Ikhar.
